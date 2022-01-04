@@ -57,4 +57,12 @@ border-radius: 5px;
 font-size: 15px;
 margin-left: 5px;
 }
+#link1:hover{
+    background-color: red;
+    cursor: pointer;
+}
+#link2:hover{
+    background-color: red;
+    cursor: pointer;
+}
 
