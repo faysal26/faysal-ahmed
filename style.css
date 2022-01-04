@@ -1,7 +1,56 @@
 body{
+    font-family: 'Roboto', sans-serif;
+    margin: 120px;
+}
+
+.front-section{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 10px 10px 40px black;
+    
     
 }
-.main-banner{
-    background-image: url(Image/big-banner.jpg);
-    background-repeat: no-repeat;
+#name{
+    font-size: 43px;
+    /* font-family: 'Poppins', sans-serif;
+font-family: 'Staatliches', cursive; */
+font-family: 'Bebas Neue', cursive;
+font-weight: 600;
 }
+.head-left{
+    text-align: center;
+    padding-top: 80px;
+    width: 50%;
+    margin-left: 120px;
+}
+.about-section{
+    width: 50%;
+    margin-right: 100px;
+    padding: 50px 200px 100px 200px;
+    font-weight: 500px;
+}
+#about-header{
+width: 800px;
+font-size: 50px;
+}
+#link1{
+text-decoration: none;
+padding: 5px 15px;
+text-align: center;
+color: white;
+font-weight: 600px;
+background-color: rgb(29, 28, 28);
+border-radius: 5px;
+}
+#link2{
+text-decoration: none;
+padding: 5px 15px;
+text-align: center;
+color: white;
+font-weight: 600px;
+background-color: rgb(29, 28, 28);
+border-radius: 5px;
+}
+
