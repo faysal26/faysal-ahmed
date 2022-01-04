@@ -11,9 +11,7 @@ body{
     margin-top: 150px;
     margin-left: 200px;
     margin-right: 200px;
-    box-shadow: 10px 10px 50px black;
-    
-    
+    box-shadow: 10px 10px 50px black;   
 }
 #name{
     font-size: 43px;
@@ -40,20 +38,23 @@ font-size: 50px;
 }
 #link1{
 text-decoration: none;
-padding: 5px 15px;
+padding: 4px 13px;
 text-align: center;
 color: white;
-font-weight: 600px;
+font-weight: 500px;
 background-color: rgb(29, 28, 28);
 border-radius: 5px;
+font-size: 15px;
 }
 #link2{
 text-decoration: none;
-padding: 5px 15px;
+padding: 4px 13px;
 text-align: center;
 color: white;
-font-weight: 600px;
+font-weight: 500px;
 background-color: rgb(29, 28, 28);
 border-radius: 5px;
+font-size: 15px;
+margin-left: 5px;
 }
 
